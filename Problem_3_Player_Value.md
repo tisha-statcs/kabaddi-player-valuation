@@ -112,11 +112,12 @@ Injury risk is modeled using logistic regression:
 
 ### Risk Variables
 
-- **S:** Training stimulus and cumulative workload.  
-- **T:** Technique related biomechanical stress indicators.  
+- **S (Training workload):** Measures the total physical load placed on the player, based on recent training intensity and the number of matches or raids played.
+- **T (Technique related stress):** Measures the physical stress created by the player’s style of play, such as movement patterns, and body positioning during raids and tackles.
 - **B:** Short term recovery and fatigue state between matches.  
 - **R:** Long term availability pattern based on past match participation.
 
+S captures how much the player plays, while T captures how the player plays. 
 A higher estimated risk reduces the risk adjusted economic value.
 
 ---
