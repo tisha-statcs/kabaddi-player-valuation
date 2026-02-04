@@ -33,7 +33,7 @@ At time t, the economic value of a player is defined as:
 where:
 - V_P(t) is the **on field performance value**,  
 - V_C(t) is the **commercial value driven by fan engagement**,  
-- V_D(t) is the **digital asset value**,  
+- V_D(t) is the **Value from Web3 frameworks, tokenization, and proprietary rights**,  
 - P_{Risk}(t) is the **probability of value loss** due to injury or decline.
 
 The multiplicative risk term ensures that uncertainty directly reduces expected value.
@@ -77,9 +77,9 @@ Commercial value reflects a player’s ability to generate revenue through **fan
 
 ### Commercial Variables
 
-- **E_{Rate}:** Digital engagement rate (likes, shares, interactions).  
-- **M_{Sales}:** Merchandise demand associated with the player.  
-- **V_{Corr}:** Statistical relationship between engagement and match viewership.  
+- **E_{Rate}(Engagement Rate):** Active participation (likes/shares) on social media.  
+- **M_{Sales}(Merchandise):** Merchandise demand associated with the player.  
+- **V_{Corr}(Viewership Correlation):** The link between a player's social presence and live match viewership.  
 - **β₁ β₂ β₃:** Weights capturing commercial importance.
 
 ### Attention Cycles
@@ -92,12 +92,14 @@ This reflects the idea that **fan attention is finite** and responds to performa
 
 ## Digital Asset Value V_D(t)
 
-Digital asset value represents economic value created through:
-- proprietary digital rights,
-- digital collectibles,
-- performance-linked digital initiatives.
+Digital asset value represents the value created by a player through digital platforms outside live matches.
 
-This component allows the model to incorporate modern revenue channels that evolve alongside fan engagement.
+This includes online content, digital collectibles, and fan engagement in digital ecosystems. 
+In leagues exploring Web3-based initiatives, this component can also capture value created through player linked digital assets.
+
+Although both commercial value and digital asset value relate to fan engagement, they represent different sources of value. 
+Commercial value is driven by live matches and reflects revenue from viewership and merchandise during a season. 
+Digital asset value captures player-related digital engagement that can continue outside live matches and persist over time.
 
 ---
 
