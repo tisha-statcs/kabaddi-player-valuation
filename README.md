@@ -45,4 +45,4 @@ which are then combined and discounted by a probabilistic risk factor to take in
 
 More details about the model, the equations and the variables used in the model can be found in the following document:
 
- **Problem_3_Player_Value.md**
+[Problem_3_Player_Value.md](Problem_3_Player_Value.md)
