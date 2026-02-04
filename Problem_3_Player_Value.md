@@ -31,10 +31,11 @@ At time t, the economic value of a player is defined as:
 ![Total Economic Value Equation](equations/tev_equation.jpg)
 
 where:
-- V_P(t) is the **on field performance value**,  
-- V_C(t) is the **commercial value driven by fan engagement**,  
-- V_D(t) is the **Value from Web3 frameworks, tokenization, and proprietary rights**,  
-- P_{Risk}(t) is the **probability of value loss** due to injury or decline.
+- **V_P(t):** On field performance value generated through raid output and match consistency.  
+- **V_C(t):** Commercial value driven by fan engagement and match related revenue.  
+- **V_D(t):** Digital asset value generated through the player’s online presence and digital fan activity.  
+- **P_Risk(t):** Probability of value loss due to injury or reduced availability.
+
 
 The multiplicative risk term ensures that uncertainty directly reduces expected value.
 
