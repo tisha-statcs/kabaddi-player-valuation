@@ -99,7 +99,7 @@ In leagues exploring Web3-based initiatives, this component can also capture val
 
 Although both commercial value and digital asset value relate to fan engagement, they represent different sources of value. 
 Commercial value is driven by live matches and reflects revenue from viewership and merchandise during a season. 
-Digital asset value captures player-related digital engagement that can continue outside live matches and persist over time.
+Digital asset value captures player related digital engagement that can continue outside live matches and persist over time.
 
 ---
 
